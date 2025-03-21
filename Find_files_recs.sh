@@ -39,7 +39,8 @@
 
 
 # Start code
-#!/bin/bash                                                                                IMPORTANT THINGS TO NOTE
+#!/bin/bash                                                                               
+                                                                                        #IMPORTANT THINGS TO NOTE
                                     #PLEASE NOTE FOR THE FILE CHECKER ON LINE 62 STAT -f%z IS ONLY FOR MAC TO MAKE IT WORK FOR LINUX CHANGE "f" TO "c" AND CHANGE "z" TO "s"
                                                             #PLEASE NOTE: IF YOU RUN THIS ON YOUR MAIN DIR IT WILL GO THROUGH EVERYTHING!!!
                                                                     #THIS WILL TAKE TIME (depending on how many files you have)
